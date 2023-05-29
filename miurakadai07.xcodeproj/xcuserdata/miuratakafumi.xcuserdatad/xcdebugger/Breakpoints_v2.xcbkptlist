@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1478DCF5-5901-4C05-A1B9-AD23B43C4F6F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85D8978C-3253-46DC-86A1-ACA90A6093FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "miurakadai07/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "85D8978C-3253-46DC-86A1-ACA90A6093FE - 1eac4ba855bd73b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "miurakadai07.ViewController.valueTextField1.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "miurakadai07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miuratakafumi/Desktop/%E8%AA%B2%E9%A1%8C%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%99/miurakadai07/miurakadai07/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "85D8978C-3253-46DC-86A1-ACA90A6093FE - 5fb7b0155cd50327"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "miurakadai07.ViewController.valueTextField1.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "miurakadai07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miuratakafumi/Desktop/%E8%AA%B2%E9%A1%8C%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%99/miurakadai07/miurakadai07/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "85D8978C-3253-46DC-86A1-ACA90A6093FE - 55530d30fa374834"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "miurakadai07.ViewController.valueTextField1.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "miurakadai07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miuratakafumi/Desktop/%E8%AA%B2%E9%A1%8C%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%99/miurakadai07/miurakadai07/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "85D8978C-3253-46DC-86A1-ACA90A6093FE - 893304ed65333d5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "miurakadai07.ViewController.valueTextField1.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "miurakadai07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miuratakafumi/Desktop/%E8%AA%B2%E9%A1%8C%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%99/miurakadai07/miurakadai07/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "85D8978C-3253-46DC-86A1-ACA90A6093FE - 5f32be1027e8fa1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "miurakadai07.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; miurakadai07.ViewController"
+                  moduleName = "miurakadai07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miuratakafumi/Desktop/%E8%AA%B2%E9%A1%8C%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%99/miurakadai07/miurakadai07/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "85D8978C-3253-46DC-86A1-ACA90A6093FE - 486aba1d72556b8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "miurakadai07.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;miurakadai07.ViewController&gt;"
+                  moduleName = "miurakadai07"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miuratakafumi/Desktop/%E8%AA%B2%E9%A1%8C%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B7%E3%82%99/miurakadai07/miurakadai07/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B719562D-B426-4580-BBB9-62D47B61CC81"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
