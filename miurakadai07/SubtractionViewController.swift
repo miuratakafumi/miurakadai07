@@ -16,16 +16,6 @@ class subtractionViewController: UIViewController {
         valuetextField2.keyboardType = .numberPad
     }
     
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
     // アウトレット作成
     @IBOutlet private weak var valueTextField1: UITextField!
     @IBOutlet private weak var valuetextField2: UITextField!
@@ -34,12 +24,11 @@ class subtractionViewController: UIViewController {
     // ボタン押下時に引き算を行う
     @IBAction private func pressedButton(_ sender: Any) {
         // テキストフィールドの値をInt型に変換して定数に代入
-        let segnedNumber1 = Int(valueTextField1.text ?? "") ?? 0
-        let segnedNumber2 = Int(valuetextField2.text ?? "") ?? 0
+        let number1 = Int(valueTextField1.text ?? "") ?? 0
+        let number2 = Int(valuetextField2.text ?? "") ?? 0
         
         // 計算結果をラベルに表示する
-        let calculationNumber = segnedNumber1 - segnedNumber2
-        valueLabel.text = String(calculationNumber)
+        valueLabel.text = String(number1 - number2)
         
         // キーボードを非表示にする
         valueTextField1.resignFirstResponder()
